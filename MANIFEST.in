@@ -1,0 +1,6 @@
+recursive-include log *
+include README.md
+global-include *.py
+global-include *.json
+global-exclude *.pyc
+global-exclude *.venv
